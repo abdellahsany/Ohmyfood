@@ -3,7 +3,7 @@
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
-## Objectif
+## Objectif du client
 
 Créer un site web qui met en avant les menus de quatre prestigieux restaurants parisiens tout en offrant la possibilité aux utilisateurs de réserver en ligne et de personnaliser leurs propres menus.
 
