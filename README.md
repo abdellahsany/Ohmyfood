@@ -1,6 +1,6 @@
 ![db366b00-43cf-11eb-8973-5242eb9ffc2f](https://github.com/abdellahsany/Ohmyfood/assets/106497263/4254a78f-66b4-43d7-b0af-968c1b498a3e)
 
-`P3` `Ohmyfood` `OpenClassrooms` `Développeur d'application - JavaScript React` 
+`P3` `Ohmyfood` `OpenClassrooms` `Développeur d'application - JavaScript React` `RNCP Développeur Concepteur Logiciel` `BAC Numérique et Sciences Informatiques`
 
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
