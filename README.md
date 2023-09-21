@@ -1,7 +1,5 @@
 ![db366b00-43cf-11eb-8973-5242eb9ffc2f](https://github.com/abdellahsany/Ohmyfood/assets/106497263/4254a78f-66b4-43d7-b0af-968c1b498a3e)
 
-`RNCP Développeur Concepteur Logiciel (niveau 6)` `BAC général et technologique`
-
 [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
 [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
 
