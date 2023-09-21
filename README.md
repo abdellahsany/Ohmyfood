@@ -11,8 +11,8 @@ Créer un site web qui met en avant les menus de quatre prestigieux restaurants 
 
 ## Fonctionnalités souhaitées
 
-●	Le développement doit se faire en CSS, sans JavaScript.
-●	Le code CSS doit être disponible dans un ou plusieurs ﬁchiers dédiés.
+- Le développement doit se faire en CSS, sans JavaScript.
+- Le code CSS doit être disponible dans un ou plusieurs ﬁchiers dédiés.
 ●	Le site devra être réalisé en adoptant le Mobile First, c’est-à-dire qu’il faudra d’abord réaliser l'intégration de la maquette mobile, puis tablette, et enﬁn l'intégration du responsive vers le desktop.
 ●	Aucun framework ne devra être utilisé ; en revanche l’utilisation de SASS serait un plus.
 ●	Aucun code CSS ne doit être appliqué via un attribut style dans une balise HTML.
