@@ -7,7 +7,7 @@
 
 Créer un site web qui met en avant les menus de quatre prestigieux restaurants parisiens tout en offrant la possibilité aux utilisateurs de réserver en ligne et de personnaliser leurs propres menus.
 
-## Fonctionnalités souhaitée
+## Fonctionnalités souhaitées
 
 - Le développement doit se faire en CSS, sans JavaScript.
 - Le code CSS doit être disponible dans un ou plusieurs ﬁchiers dédiés.
