@@ -35,6 +35,5 @@ Créer un site web qui met en avant les menus de quatre prestigieux restaurants 
 -	Sur la page d’accueil, il contient le logo du site.
 -	Sur les pages de menu, il contient en plus un bouton de retour vers la page d’accueil.
 
-## Projet fini
-
-https://abdellahsany.github.io/Kasa/
+## Projet terminé
+https://abdellahsany.github.io/Ohmyfood/
