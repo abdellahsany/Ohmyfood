@@ -1,39 +1,88 @@
-![db366b00-43cf-11eb-8973-5242eb9ffc2f](https://github.com/abdellahsany/Ohmyfood/assets/106497263/4254a78f-66b4-43d7-b0af-968c1b498a3e)
+# Ohmyfood
 
-[![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML)
-[![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS)
+<p align="center">
+  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/src/assets/images/bannerMain.png" alt="Page d’accueil Ohmyfood" height="225px" width="100%">
+</p>
 
-## Objectif du client
+---
 
-Créer un site web qui met en avant les menus de quatre prestigieux restaurants parisiens tout en offrant la possibilité aux utilisateurs de réserver en ligne et de personnaliser leurs propres menus.
+## 📑 Table des matières
 
-## Fonctionnalités souhaitées
+* [Mission](#mission)
+* [Objectif](#objectif)
+* [Points forts de l’interface](#présentation-visuelle)
+* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
+* [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
+* [Points techniques spécifiques](#points-techniques-spécifiques)
+* [Accès au projet](#accès-au-projet)
 
-- Le développement doit se faire en CSS, sans JavaScript.
-- Le code CSS doit être disponible dans un ou plusieurs ﬁchiers dédiés.
-- Le site devra être réalisé en adoptant le Mobile First, c’est-à-dire qu’il faudra d’abord réaliser l'intégration de la maquette mobile, puis tablette, et enﬁn l'intégration du responsive vers le desktop.
-- Aucun framework ne devra être utilisé ; en revanche l’utilisation de SASS serait un plus.
-- Aucun code CSS ne doit être appliqué via un attribut style dans une balise HTML.
-- Tout le code doit être versionné sur GitHub avec des commits réguliers pour suivre l’avancement et publier le site en ligne plus facilement.
-- Le site devra être accessible sur GitHub Pages une fois terminé.
-- L’ensemble du site devra être responsive sur mobile, tablette et desktop.
-- Les pages devront passer la validation W3C en HTML et CSS sans erreur.
-- Le site doit être parfaitement compatible avec les dernières versions desktop de Chrome et Firefox.
-- Affichage de la localisation des restaurants. À terme, il sera possible de choisir sa localisation pour trouver des restaurants proches d’un certain lieu.
--	Une courte présentation de l’entreprise.
--	Une section contenant les 4 menus sous forme de cartes. Au clic sur la carte, l’utilisateur est redirigé vers la page du menu.
-- 4 pages contenant chacune le menu d’un restaurant.
--	Le footer est identique sur toutes les pages.
--	Au clic sur “Contact”, un renvoi vers une adresse mail est effectué.
-- Pour les photos de la galerie (composant Galerie) : Si l'utilisateur est à la première image et clique sur « image précédente », la galerie affiche la dernière image.
-- A l'inverse, lorsque l'image affichée est la dernière de la galerie, si l'utilisateur clique sur "image suivante", la galerie affiche la première image.
-- S'il n'y a qu'une seule image, les boutons "suivant" et "précédent" n'apparaissent pas.
-- La galerie doit toujours rester à la même hauteur qu'indiqué sur la maquette. Les images seront donc réduites et centrées dans le champ image.
-- Collapse : Par défaut, les replis sont fermés lors de l'initialisation de la page.
-- Si le Collapse est ouvert, le clic de l'utilisateur permet de le fermer.
--	Le header est présent sur toutes les pages.
--	Sur la page d’accueil, il contient le logo du site.
--	Sur les pages de menu, il contient en plus un bouton de retour vers la page d’accueil.
+---
 
-## Projet terminé
-https://abdellahsany.github.io/Ohmyfood/
+## 🎯 Mission
+
+Créer un site web permettant de découvrir les menus de prestigieux restaurants parisiens, avec une fonctionnalité de réservation en ligne et la possibilité de personnaliser les menus.
+
+---
+
+## 🧭 Objectif
+
+Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les menus de quatre restaurants parisiens. Les utilisateurs peuvent réserver une table et personnaliser leur expérience culinaire en ligne, tout en étant guidés par une présentation fluide et responsive.
+
+---
+
+## ✨ Points forts de l’interface
+
+* Menus de restaurants sous forme de cartes interactives,
+* Réservation facile en ligne,
+* Design minimaliste et responsive.
+
+---
+
+## ⚙️ Stacks techniques
+
+- [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) : Structure sémantique des pages web
+- [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive
+- [![SASS](https://img.shields.io/badge/SASS-Syntactically%20Awesome%20Stylesheets-pink)](https://sass-lang.com/) : Organisation des styles CSS
+- [![GitHub](https://img.shields.io/badge/GitHub-GitHub%20Pages-blue)](https://pages.github.com/) : Hébergement du projet
+- [![W3C](https://img.shields.io/badge/W3C-Validation-green)](https://www.w3.org/) : Validation HTML et CSS sans erreur
+
+---
+
+## ✅ Fonctionnalités et bonnes pratiques techniques
+
+* Design Mobile First pour une expérience optimale sur tous les appareils,
+* Aucune utilisation de JavaScript, tout en garantissant une interactivité complète via CSS,
+* Utilisation de SASS pour la gestion des styles.
+
+---
+
+## ⚙️ Aspects techniques et automatisation
+
+* Code versionné sur GitHub pour un suivi optimal,
+* Déploiement sur GitHub Pages pour un accès facile en ligne,
+* Validation W3C pour garantir la qualité et la conformité du code.
+
+---
+
+## 🧩 Points techniques spécifiques
+
+* Navigation fluide entre les menus avec un design épuré,
+* Système de réservation en ligne bien intégré,
+* Interface responsive et compatible avec tous les appareils.
+
+---
+
+## 🔗 Accès au projet par lien
+
+Le projet Ohmyfood est disponible en ligne sur :                                                                                                                            
+[https://abdellahsany.github.io/Ohmyfood/](https://abdellahsany.github.io/Ohmyfood/)
+
+---
+
+## 📲 Accès rapide au projet par QR
+
+Scannez ce QR code pour accéder au projet Ohmyfood :
+
+<p align="left">
+  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/src/assets/images/frameOhmyfood.png" alt="QR code pour accéder au projet Ohmyfood" height="70px" width="70px">
+</p>
