@@ -6,18 +6,6 @@
 
 ---
 
-## 🌟 Introduction
-
-Le projet *Ohmyfood* démarre avec une animation immersive qui capture l'attention des utilisateurs dès leur arrivée sur le site. Inspirée des intros de jeux vidéo, cette animation fait apparaître progressivement le contenu, créant une expérience visuelle fluide et engageante.
-
-### **Détails de l'animation :**
-- **Animation de l'image d'accueil** : L'image principale se déplace de manière fluide depuis le haut de l'écran, tout en devenant progressivement plus visible.
-- **Effet de zoom** : Les éléments clés du site, comme l'image d'accueil, s'animent avec un effet de zoom pour renforcer l'impact visuel et attirer l'attention des utilisateurs dès leur arrivée sur la page.
-
-Cette approche **Mobile First** garantit une expérience optimale, peu importe l'appareil utilisé, tout en intégrant des animations légères qui n'entravent pas la fluidité du site. 
-
----
-
 ## 📑 Table des matières
 
 * [Mission](#mission)
@@ -32,19 +20,19 @@ Cette approche **Mobile First** garantit une expérience optimale, peu importe l
 
 ## 🎯 Mission
 
-Créer un site web permettant de découvrir les menus de prestigieux restaurants parisiens, avec une fonctionnalité de réservation en ligne et la possibilité de personnaliser les menus.
+Le projet *Ohmyfood* vise à créer un site web immersif et interactif qui présente les menus de quatre restaurants parisiens. Dès l'arrivée sur le site, une animation fluide inspirée des intros de jeux vidéo accueille l'utilisateur. L'animation fait apparaître progressivement le contenu, offrant une expérience visuelle dynamique et engageante. Le site permet également aux utilisateurs de réserver en ligne et de personnaliser leurs menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
 
 ---
 
 ## 🧭 Objectif
 
-Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les menus de quatre restaurants parisiens. Les utilisateurs peuvent réserver une table et personnaliser leur expérience culinaire en ligne, tout en étant guidés par une présentation fluide et responsive.
+Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens prestigieux. L'utilisateur peut réserver une table et personnaliser ses repas directement en ligne, avec une interface soignée et fluide adaptée à tous les types d'appareils.
 
 ---
 
 ## ✨ Points forts de l’interface
 
-* Menus de restaurants sous forme de cartes interactives,
+* Menus des restaurants présentés sous forme de cartes interactives,
 * Réservation facile en ligne,
 * Design minimaliste et responsive,
 * **Animation de transition fluide entre les pages** pour une expérience utilisateur agréable dès le début.
