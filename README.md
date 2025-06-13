@@ -20,7 +20,7 @@
 
 ## 🎯 Mission
 
-Développer un site web interactif et immersif permettant de découvrir les menus de quatre restaurants parisiens. Une animation fluide, inspirée des intros de jeux vidéo, introduit l'utilisateur au contenu de manière dynamique et engageante. Le site offre également des fonctionnalités de réservation en ligne et de personnalisation des menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
+Développer un site web interactif et immersif permettant de découvrir les menus de quatre restaurants parisiens. Le projet démarre avec une animation fluide inspirée des intros de jeux vidéo, créant une première interaction dynamique avec l'utilisateur. Cette animation fait apparaître progressivement le contenu, offrant une expérience visuelle engageante dès l'arrivée sur le site. Le site offre également des fonctionnalités de réservation en ligne et de personnalisation des menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
 
 ---
 
