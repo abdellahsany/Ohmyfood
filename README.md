@@ -20,7 +20,7 @@
 
 ## 🎯 Mission
 
-Le projet *Ohmyfood* vise à créer un site web immersif et interactif qui présente les menus de quatre restaurants parisiens. Dès l'arrivée sur le site, une animation fluide inspirée des intros de jeux vidéo accueille l'utilisateur. L'animation fait apparaître progressivement le contenu, offrant une expérience visuelle dynamique et engageante. Le site permet également aux utilisateurs de réserver en ligne et de personnaliser leurs menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
+Développer un site web interactif et immersif permettant de découvrir les menus de quatre restaurants parisiens. Une animation fluide, inspirée des intros de jeux vidéo, introduit l'utilisateur au contenu de manière dynamique et engageante. Le site offre également des fonctionnalités de réservation en ligne et de personnalisation des menus, tout en garantissant une interface responsive et optimisée pour tous les appareils.
 
 ---
 
