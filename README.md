@@ -34,7 +34,8 @@ Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les m
 
 * Menus de restaurants sous forme de cartes interactives,
 * Réservation facile en ligne,
-* Design minimaliste et responsive.
+* Design minimaliste et responsive,
+* **Animation de transition fluide entre les pages** pour une expérience utilisateur agréable.
 
 ---
 
@@ -43,6 +44,7 @@ Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les m
 - [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) : Structure sémantique des pages web
 - [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive
 - [![SASS](https://img.shields.io/badge/SASS-Syntactically%20Awesome%20Stylesheets-pink)](https://sass-lang.com/) : Organisation des styles CSS
+- [![CSS Animations](https://img.shields.io/badge/CSS%20Animations-Fluid%20Transitions-green)](https://developer.mozilla.org/en-US/docs/Web/CSS/animation) : Utilisation d'animations CSS pour améliorer l'interactivité
 - [![GitHub](https://img.shields.io/badge/GitHub-GitHub%20Pages-blue)](https://pages.github.com/) : Hébergement du projet
 - [![W3C](https://img.shields.io/badge/W3C-Validation-green)](https://www.w3.org/) : Validation HTML et CSS sans erreur
 
@@ -52,6 +54,7 @@ Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les m
 
 * Design Mobile First pour une expérience optimale sur tous les appareils,
 * Aucune utilisation de JavaScript, tout en garantissant une interactivité complète via CSS,
+* **Animations fluides** pour les transitions entre les pages et les interactions utilisateur,
 * Utilisation de SASS pour la gestion des styles.
 
 ---
@@ -66,8 +69,8 @@ Le projet *Ohmyfood* vise à offrir une interface conviviale pour explorer les m
 
 ## 🧩 Points techniques spécifiques
 
-* Navigation fluide entre les menus avec un design épuré,
-* Système de réservation en ligne bien intégré,
+* **Galerie animée** avec navigation fluide entre les images,
+* **Transitions animées** entre les pages pour une meilleure expérience utilisateur,
 * Interface responsive et compatible avec tous les appareils.
 
 ---
