@@ -44,8 +44,10 @@ Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 ## ⚙️ Stacks techniques <a name="stacks-techniques"></a>
 
 - [![HTML](https://img.shields.io/badge/HTML-HyperText%20Markup%20Language-orange)](https://developer.mozilla.org/fr/docs/Learn/HTML) : Structure sémantique des pages web
-- [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive
+- [![CSS](https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue)](https://developer.mozilla.org/fr/docs/Web/CSS) : Mise en page responsive et animations de base
 - [![SASS](https://img.shields.io/badge/SASS-Syntactically%20Awesome%20Stylesheets-pink)](https://sass-lang.com/) : Organisation des styles CSS
+- [![JavaScript](https://img.shields.io/badge/JavaScript-JavaScript-yellow)](https://developer.mozilla.org/fr/docs/Web/JavaScript) : Logique dynamique et gestion des animations avancées
+- [![GSAP](https://img.shields.io/badge/GSAP-Animation%20Library-green)](https://greensock.com/gsap/) : Gestion avancée des animations et transitions fluides
 - [![GitHub](https://img.shields.io/badge/GitHub-GitHub%20Pages-blue)](https://pages.github.com/) : Hébergement du projet
 - [![W3C](https://img.shields.io/badge/W3C-Validation-green)](https://www.w3.org/) : Validation HTML et CSS sans erreur
 
