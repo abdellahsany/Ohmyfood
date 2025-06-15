@@ -1,7 +1,7 @@
 # Ohmyfood
 
 <p align="center">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/src/assets/images/bannerMain.png" alt="Page d’accueil Ohmyfood" height="225px" width="100%">
+  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/src/assets/images/2025-06-15_02h40_04.png" alt="Page d’accueil Ohmyfood" height="100%" width="100%">
 </p>
 
 ---
