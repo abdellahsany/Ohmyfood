@@ -55,12 +55,15 @@ Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 
 * Design Mobile First pour une expérience optimale sur tous les appareils,
 * Aucune utilisation de JavaScript, tout en garantissant une interactivité complète via CSS,
-* **Animations fluides** pour les transitions entre les pages et les interactions utilisateur.
+* Animations fluides pour les transitions entre les pages et les interactions utilisateur.
 
 ---
 
 ## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
 
+* **Animation d'entrée** : Lors de l'ouverture du site, une **animation fluide** s'affiche, similaire à une introduction dynamique inspirée des jeux vidéo. Cette animation fait apparaître progressivement le contenu de la page, offrant une première expérience visuelle engageante.
+  - L'animation **fade-in** combine une **opacité croissante** et un **glissement vers le bas** pour une entrée en douceur du contenu.
+  - L'effet donne une impression de **fluidité et de dynamisme**, capturant immédiatement l'attention de l'utilisateur dès son arrivée sur la page.
 * Code versionné sur GitHub pour un suivi optimal,
 * Déploiement sur GitHub Pages pour un accès facile en ligne,
 * Validation W3C pour garantir la qualité et la conformité du code.
@@ -86,5 +89,5 @@ Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 ## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture (48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
+  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture%20(48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
 </p>
