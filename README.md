@@ -86,5 +86,5 @@ Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 ## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/src/assets/images/frameOhmyfood.png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
+  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture (48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
 </p>
