@@ -10,12 +10,12 @@
 
 * [Mission](#mission)
 * [Objectif](#objectif)
-* [Points forts de l’interface](#présentation-visuelle)
+* [Points forts de l’interface](#points-forts-de-linterface)
 * [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
 * [Points techniques spécifiques](#points-techniques-specifiques)
 * [Accès au projet par clic](#acces-au-projet-par-clic)
-* [Accès au projet par QR](#acces-au-projet-par-QR)
+* [Accès au projet par QR](#acces-au-projet-par-qr)
 
 ---
 
