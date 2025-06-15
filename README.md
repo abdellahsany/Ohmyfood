@@ -61,7 +61,7 @@ Le projet *Ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 
 ## ⚙️ Aspects techniques et automatisation <a name="aspects-techniques-et-automatisation"></a>
 
-* Animation d'entrée : Une animation fluide au chargement du site, inspirée des intros de jeux vidéo, fait apparaître progressivement le contenu avec un effet *fade-in*, combinant opacité croissante et glissement vertical. Cet effet crée une *entrée dynamique* et *fluide*, capturant immédiatement l'attention de l'utilisateur.
+* Animation d'entrée : Une animation fluide au chargement du site avec un effet *fade-in*, combinant opacité croissante et glissement vertical, créant une entrée dynamique et captivante.
 * Code versionné sur GitHub pour un suivi optimal,
 * Déploiement sur GitHub Pages pour un accès facile en ligne,
 * Validation W3C pour garantir la qualité et la conformité du code.
