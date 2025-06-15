@@ -1,4 +1,4 @@
-# Ohmyfood
+# *Ohmyfood*
 
 <p align="center">
   <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/2025-06-15_02h50_29.png" alt="Page d’accueil Ohmyfood" height="100%" width="100%">
@@ -11,10 +11,11 @@
 * [Mission](#mission)
 * [Objectif](#objectif)
 * [Points forts de l’interface](#présentation-visuelle)
-* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalités-et-bonnes-pratiques-techniques)
+* [Fonctionnalités et bonnes pratiques techniques](#fonctionnalites-et-bonnes-pratiques-techniques)
 * [Aspects techniques et automatisation](#aspects-techniques-et-automatisation)
-* [Points techniques spécifiques](#points-techniques-spécifiques)
-* [Accès au projet](#accès-au-projet)
+* [Points techniques spécifiques](#points-techniques-specifiques)
+* [Accès au projet par clic](#acces-au-projet-par-clic)
+* [Accès au projet par QR](#acces-au-projet-par-QR)
 
 ---
 
