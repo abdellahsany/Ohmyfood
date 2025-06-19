@@ -80,7 +80,7 @@ Le projet *ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 
 ## 🔗 Accès au projet par clic <a name="acces-au-projet-par-clic"></a> :
 
-<a href="https://abdellahsany.github.io/Ohmyfood/">
+<a href="https://abdellahsany.github.io/ohmyfood/">
   <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture%20(47).png" alt="Cliquez ici" height="55px" width="55px"/>
 </a>
 
@@ -89,5 +89,5 @@ Le projet *ohmyfood* permet de découvrir les menus de restaurants parisiens pre
 ## 📲 Accès au projet par QR <a name="acces-au-projet-par-qr"></a> :
 
 <p align="left">
-  <img src="https://github.com/abdellahsany/Ohmyfood/blob/main/assets/logos/Picture%20(48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
+  <img src="https://github.com/abdellahsany/ohmyfood/blob/main/assets/logos/Picture%20(48).png" alt="QR code pour accéder au projet Ohmyfood" height="55px" width="55px">
 </p>
